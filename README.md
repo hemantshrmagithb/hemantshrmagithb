@@ -3,7 +3,11 @@
 </h1>
 <br>
 
+
 ## 🎯 **About Me:**
+
+
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt=""> 
 
 I'm a student with a deep love for **coding** . I enjoy problem-solving and building innovative solutions. I'm always learning and exploring new fields, particularly in **AI**, and **App Development**.
 
