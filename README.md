@@ -4,7 +4,7 @@
 <br>
 
 
-## 🎯 **About Me:**
+## 🎯 **About Me: **
 
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt=""> 
