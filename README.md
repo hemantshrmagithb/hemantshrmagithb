@@ -42,7 +42,7 @@ Email Me 👉 ✉️  **hemantsharmabhardwaj123@gmail.com** For Collaboration/Pr
 
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophie s
 
 
 
