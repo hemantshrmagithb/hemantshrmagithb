@@ -32,13 +32,12 @@ Email Me 👉 ✉️  **hemantsharmabhardwaj123@gmail.com** For Collaboration/Pr
 <img 
     align="right" 
     alt="coding" 
-    width="500"
-    height="449"
+    width="300"
+    height="400"
  src="https://github.com/user-attachments/assets/c37541a9-9736-4a74-888f-7e0b9b4053f0" alt="Profile Image" width="500" style="border-radius: 8px; opacity: 0.7; box-shadow: 0 4px 10px rgba(0,0,0,0.2); max-width: 100%; height: auto;">
  <img width=300 align="" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hemantshrmagithb&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 ![](https://github-readme-stats.vercel.app/api?username=hemantshrmagithb&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hemantshrmagithb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantshrmagithb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
