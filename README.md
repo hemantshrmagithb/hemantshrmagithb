@@ -37,7 +37,7 @@ Email Me 👉 ✉️  **hemantsharmabhardwaj123@gmail.com** For Collaboration/Pr
 
  <img width=300 align="" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hemantshrmagithb&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
  
-![](https://github-readme-stats.vercel.app/api?username=hemantshrmagithb&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=hemantshrmagithb&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
