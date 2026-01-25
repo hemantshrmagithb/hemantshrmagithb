@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
 </p>
 <br>
-
+<br>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=7DF9FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Sharma+Hemant+kumar!💫;Welcome+to+My+GitHub+Profile!"/>
 </h1>
