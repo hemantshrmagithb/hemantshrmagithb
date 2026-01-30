@@ -18,7 +18,7 @@
 
 
 
-- 📍 **Location**: Indi 🇮🇳
+- 📍 **Location**: India 🇮🇳
 - 🧩 **Interests**: AI, Web Development
 - 🚀 **Goal: Full Stack Web Developer**
 - **🚀 Building PU Pulse – Delivering Platform** | <br>
