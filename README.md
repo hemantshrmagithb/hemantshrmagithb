@@ -16,7 +16,9 @@
 - I'm a student with a deep love for **coding** . I enjoy problem-solving and building innovative solutions. I'm always learning and exploring new fields, particularly in **AI**, and **App Development**.
 
 
-- 📍 **Location**: India 🇮🇳
+
+
+- 📍 **Location**: Indi 🇮🇳
 - 🧩 **Interests**: AI, Web Development
 - 🚀 **Goal: Full Stack Web Developer**
 - **🚀 Building PU Pulse – Delivering Platform** | <br>
