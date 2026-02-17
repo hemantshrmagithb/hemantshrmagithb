@@ -39,9 +39,6 @@ Email Me 👉 ✉️  **hemantsharmabhardwaj123@gmail.com** For Collaboration/Pr
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" height="400" align="right" alt=""> 
 <img width=300 align="" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hemantshrmagithb&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
- 
-
-
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=hemantshrmagithb&theme=dark&hide_border=false)<br/>
@@ -52,14 +49,12 @@ Email Me 👉 ✉️  **hemantsharmabhardwaj123@gmail.com** For Collaboration/Pr
 
 ![](https://github-profile-trophy.vercel.app/?username=hemantshrmagithb&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ----
+
 
 ### 🔝 **Top Contributed Repo**
  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api?username=hemantshrmagithb&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
