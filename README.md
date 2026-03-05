@@ -62,15 +62,18 @@ Email Me 👉 ✉️  **hemantsharmabhardwaj123@gmail.com** For Collaboration/Pr
 ----
 
 ### 🔝 **Top Contributed Repo**
- <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api?username=hemantshrmagithb&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
- 
-![](https://github-contributor-stats.vercel.app/api?username=hemantshrmagithb&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=hemantshrmagithb&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantshrmagithb&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemantshrmagithb&theme=github_dark" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hemantshrmagithb&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemantshrmagithb&theme=github-dark" />
+</p>
 
-----
+---
 
 
 
