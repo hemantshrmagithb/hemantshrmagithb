@@ -26,8 +26,6 @@ Email Me 👉 ✉️  **hemantsharmabhardwaj123@gmail.com** For Collaboration/Pr
 
 
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=hemantshrmagithb&label=Profile%20views&color=0D47A1&style=flat)
 
 ## 🌐 Socials:
