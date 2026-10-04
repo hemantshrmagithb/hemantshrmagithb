@@ -19,10 +19,11 @@
 -  🔭 **Currently Worked On**:
     - **PU Pulse**: A prototype food delivery platform built for our college with Google AI Studio and Firebase.
 - 🚀 **Goal**: Building seamless iOS and Full-Stack experiences! 
+
   
 <br>
 
-Email Me 👉 ✉️  **hemantsharmabhardwaj123@gmail.com** For Collaboration/Project or Anything Else.😊😊
+Email Me 👉 ✉️  **[hemantsharmabhardwaj123@gmail.com]** For Collaboration/Project or Anything Else.😊😊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hemantshrmagithb&label=Profile%20views&color=0D47A1&style=flat)
 
