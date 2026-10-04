@@ -28,8 +28,8 @@ Email Me 👉 ✉️  **[hemantsharmabhardwaj123@gmail.com]** For Collaboration/
 ![Profile Views](https://komarev.com/ghpvc/?username=hemantshrmagithb&label=Profile%20views&color=0D47A1&style=flat)
 
 ## 🌐 Socials:
-[[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemantbhardwajjj)][[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharma-hemant-k-854710376/)][![GitHub](https://img.shields.io/badge/-GitHub-0D47A1?style=for-the-badge&logo=github&logoColor=white)]
-[[![Email](https://img.shields.io/badge/-Email-0D47A1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantsharmabhardwaj123@gmail.com)]
+[![Linkedln](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sharma-hemant-k-854710376/)   [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/hemantbhardwajj)
+ [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hemantbhardwajjj)
 
 
 # 💻 Tech Stack:
